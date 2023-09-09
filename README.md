@@ -1,5 +1,5 @@
 # 2D-java-drone
-A drone that simulates thrust and gravity in 2D space --- part of my SURF research projects
+A drone that simulates thrust and gravity in 2D space --- part of my 2022 SURF research projects
 
 ### Overview
 A 2D drone based on SLF4J and PID flight attitude control. The software simulates gravity and the thrust of the drone's two engines, allowing users to control the aircraft using a keyboard. The interface can display various parameters of the current environment and drone, including linear velocity, angular velocity, engine thrust, waypoint position, etc. The software has six built-in waypoints for players to control the aircraft through, and you can also customize the route.
